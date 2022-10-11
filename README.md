@@ -4,17 +4,29 @@
 [![Jest Testing Framework](https://img.shields.io/badge/testing%20framework-Jest-339933.svg?logo=Jest)][2]
 [![Node Package Manager](https://img.shields.io/badge/package%20manager-Node-C21325.svg?logo=NPM)][3]
 
+[Replace with your Netlify Badge]<br/>
+[Replace with a link to your **published** application on Netlify e.g. https://task-manager-example.netlify.app]
+
 The purpose of this project is to build a simple JavaScript application to manage tasks, following a **test-driven development** approach. 
 
-We want to ensure that the emphasis is on practicing all the test-driven development concepts covered by the course. Therefore, in building this simple application, we will focus on **happy path scenarios**.
+We want to ensure that the emphasis is on practicing all the test-driven development concepts covered by the course. Therefore, in building this simple application, we will focus on **happy path scenarios** to begin with.
 
-When you have finished implement the requirements below, please feel free to add **unhappy path scenarios**.
+When you have completed the requirements below, please feel free to add test for **unhappy path scenarios**.
 
-- [Getting Started][10]
+## Task 
+Below is a list of empty user stories. Complete the user stories and scenarios below.
 
-## Requirements
+## How to Complete your Homework
 
-Below is a list of requirements and empty user stories. Complete the user stories and scenarios below.
+Homework will be to build the application using TDD. Please refer to the [Getting Started Guide][10] to start working on the project
+
+🚨 **To complete this homework:**
+1. Publish your application to (Netlify)[11].
+1. Add the Netlify Status Badge for your application to the top of this README.md 
+1. Add a link to your **published** application on Netlify to the top of this README.md 
+
+
+## User Stories and Scenarios
 
 - [Display tasks][4]
 - [Create a task][5]
@@ -120,3 +132,4 @@ Below is a list of requirements and empty user stories. Complete the user storie
 [8]: #delete-a-task
 [9]: #reorder-a-task
 [10]: doc/START.md
+[11]: https://app.netlify.com/
