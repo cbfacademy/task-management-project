@@ -14,6 +14,7 @@ We want to ensure that the emphasis is on practicing all the test-driven develop
 - [Complete a task][7]
 - [Delete a task][8]
 - [Reorder a task][9]
+- [Getting Started][10]
 
 Add your user stories here e.g. 
 
@@ -115,3 +116,4 @@ Add your user stories here e.g.
 [7]: #complete-a-task
 [8]: #delete-a-task
 [9]: #reorder-a-task
+[10]: doc/START.md
