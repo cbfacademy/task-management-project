@@ -6,7 +6,15 @@
 
 The purpose of this project is to build a simple JavaScript application to manage tasks, following a **test-driven development** approach. 
 
-We want to ensure that the emphasis is on practicing all the test-driven development concepts covered by the course. Therefore, in building this simple API, we will focus on **happy path scenarios** only.
+We want to ensure that the emphasis is on practicing all the test-driven development concepts covered by the course. Therefore, in building this simple application, we will focus on **happy path scenarios**.
+
+When you have finished implement the requirements below, please feel free to add **unhappy path scenarios**.
+
+- [Getting Started][10]
+
+## Requirements
+
+Below is a list of requirements and empty user stories. Complete the user stories and scenarios below.
 
 - [Display tasks][4]
 - [Create a task][5]
@@ -14,12 +22,8 @@ We want to ensure that the emphasis is on practicing all the test-driven develop
 - [Complete a task][7]
 - [Delete a task][8]
 - [Reorder a task][9]
-- [Getting Started][10]
 
-Add your user stories here e.g. 
-
-**Title:**
-## Display Tasks
+## 1. Display Tasks
 
 **Narrative:**
 > **As a** user through a web browser <br/>
@@ -35,7 +39,7 @@ Add your user stories here e.g.
 
 **Scenario 2: ...**
 
-## Create a Task
+## 2. Create a Task
 
 **Narrative:**
 > **As a** ... <br/>
@@ -49,7 +53,7 @@ Add your user stories here e.g.
 >	**When** ... <br/>
 >	**Then** ...
 
-## Edit a task
+## 3. Edit a task
 
 **Narrative:**
 > **As a** ... <br/>
@@ -63,7 +67,7 @@ Add your user stories here e.g.
 >	**When** ... <br/>
 >	**Then** ...
 
-## Complete a task
+## 4. Complete a task
 
 **Narrative:**
 > **As a** ... <br/>
@@ -77,7 +81,7 @@ Add your user stories here e.g.
 >	**When** ... <br/>
 >	**Then** ...
 
-## Delete a task
+## 5. Delete a task
 
 **Narrative:**
 > **As a** ... <br/>
@@ -91,8 +95,7 @@ Add your user stories here e.g.
 >	**When** ... <br/>
 >	**Then** ...
 
-## Reorder a task
-
+## 6. Reorder a task
 
 **Narrative:**
 > **As a** ... <br/>
