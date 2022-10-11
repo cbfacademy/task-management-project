@@ -8,9 +8,8 @@ let tasks = [
 ];
 
 
-function displayTasks(){}
-function addTask() {};
-function editTask() {};
-function deleteTask() {};
+function displayTasks(){
+
+}
 
 

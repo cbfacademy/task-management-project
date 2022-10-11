@@ -5,28 +5,27 @@
 [![Node Package Manager](https://img.shields.io/badge/package%20manager-Node-C21325.svg?logo=NPM)][3]
 
 [Replace with your Netlify Badge]<br/>
-[Replace with a link to your **published** application on Netlify e.g. https://task-manager-example.netlify.app]
+[Replace with a link to your **published** application on Netlify e.g. https://example-task-manager.netlify.app]
 
 The purpose of this project is to build a simple JavaScript application to manage tasks, following a **test-driven development** approach. 
 
 We want to ensure that the emphasis is on practicing all the test-driven development concepts covered by the course. Therefore, in building this simple application, we will focus on **happy path scenarios** to begin with.
 
-When you have completed the requirements below, please feel free to add test for **unhappy path scenarios**.
+When you have completed the requirements below, please feel free to add tests for **unhappy path scenarios**.
 
-## Task 
-Below is a list of empty user stories. Complete the user stories and scenarios below.
+## Session Task 
+Below is a list of empty user stories. Discuss and understand the project requirements, then [add your BDD user stories below](#user-stories-and-scenarios).
 
 ## How to Complete your Homework
 
-Homework will be to build the application using TDD. Please refer to the [Getting Started Guide][10] to start working on the project
+Homework will be to build the application using TDD. Please refer to the [Getting Started Guide][10] to start working on the project.
 
 🚨 **To complete this homework:**
 1. Publish your application to (Netlify)[11].
 1. Add the Netlify Status Badge for your application to the top of this README.md 
 1. Add a link to your **published** application on Netlify to the top of this README.md 
 
-
-## User Stories and Scenarios
+## Requirements
 
 - [Display tasks][4]
 - [Create a task][5]
@@ -34,6 +33,8 @@ Homework will be to build the application using TDD. Please refer to the [Gettin
 - [Complete a task][7]
 - [Delete a task][8]
 - [Reorder a task][9]
+
+### User Stories and Scenarios
 
 ## 1. Display Tasks
 
@@ -46,7 +47,7 @@ Homework will be to build the application using TDD. Please refer to the [Gettin
 
 **Scenario 1:** Review My Tasks
 >	**Given** I would like to see my tasks <br/>
->	**When** Visit my task list <br/>
+>	**When** I visit my task list <br/>
 >	**Then** I should see a list of tasks
 
 **Scenario 2: ...**
